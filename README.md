@@ -2,7 +2,7 @@
 
 <!--
 **Leonardo2236/Leonardo2236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![image](https://github.com/Leonardo2236/Leonardo2236/assets/77425463/e0604ded-de4c-4bf5-aeb0-92738051c700)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
