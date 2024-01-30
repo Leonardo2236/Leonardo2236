@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou trabalhando no setor administrativo na área de educação em Pós Graduação EAD.
 - 🌱 Estou aprendendo na área de Dados, com conhecimento básico em Power BI, DAX, SQL, um pouco de Python, a cada dia procurando aperfeiçoar nas técnicas e lógicas utilizadas, para uma melhor análise, e um tratamento refinado na base de dados para aplicar nos projetos propostos
-- 😄 Pronouns: Ele/dele
+- 😄 Pronome: Ele/dele
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
