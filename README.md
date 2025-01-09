@@ -1,7 +1,7 @@
 ### Olá, eu sou o Leonardo!
 
 - 🔭 Atualmente estou trabalhando no setor administrativo na área de educação em Pós Graduação EAD.
-- 🌱 Estou aprendendo na área de Dados, com conhecimento básico em Power BI, DAX, SQL, um pouco de Python, a cada dia procurando aperfeiçoar nas técnicas e lógicas utilizadas, para uma melhor análise, e um tratamento refinado na base de dados para aplicar nos projetos propostos
+- 🌱 Estou desenvolvendo alguns projetos na área de Dados, com conhecimento básico em Power BI, DAX, SQL, a cada dia procurando aperfeiçoar nas técnicas e lógicas utilizadas, para uma melhor análise, e um tratamento refinado na base de dados para aplicar nos projetos propostos, focando nas tomadas de decisões.
 - 😄 Pronome: Ele/dele
 
 <div style="display: inline_block"><br>
